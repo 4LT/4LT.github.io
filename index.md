@@ -39,6 +39,15 @@ CLI and GUI application for converting animated .gif (GIF89) images to Quake and
 Half-Life sprites.  GUI is an easy-to-use front-end over the CLI built with
 Tcl/Tk.
 
+## ShaderToy Shaders
+
+<img src="shadertoy.jpg" />
+
+<https://www.shadertoy.com/user/4LT>
+
+Experiments with visual feedback effects, ray tracing, SDFs, image-based
+lighting, animation, and audio visualization.
+
 ## Quake Maps/Modding
 
 Quake 1 singleplayer map and scripting contributions.
@@ -64,15 +73,6 @@ Quake 1 singleplayer map and scripting contributions.
 <img src="q25.jpg" />
 
 <https://www.quaddicted.com/reviews/q25_limits_v1.2.html>
-
-## ShaderToy Shaders
-
-<img src="shadertoy.jpg" />
-
-<https://www.shadertoy.com/user/4LT>
-
-Experiments with visual feedback effects, ray tracing, SDFs, image-based
-lighting, animation, and audio visualization.
 
 ## Pipe Cleaner (WIP)
 
