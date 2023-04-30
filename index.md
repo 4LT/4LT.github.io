@@ -1,5 +1,7 @@
 # Portfolio
 
+Seth Rader
+
 ## Software Ray Tracer
 
 ### Pipeline
