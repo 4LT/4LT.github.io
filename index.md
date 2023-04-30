@@ -12,6 +12,8 @@ Linked In: https://www.linkedin.com/in/seth-rader-50b81996
 
 <img src="rayt.png" />
 
+https://github.com/4LT/GI
+
 Full rendering pipeline converting a scene description to pixel buffer.
 Includes global illumination techniques for reflection, refraction, and shadow
 rays.
@@ -19,6 +21,8 @@ rays.
 ### K-d Tree
 
 <img src="bunny.png" />
+
+https://github.com/4LT/GI
 
 Scene optimization using K-dimensional tree resulting in 150x speed-up on render
 of "Stanford Bunny".  Conventionally, scene would be bisected in X/Y/Z direction
