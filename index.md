@@ -45,19 +45,25 @@ Quake 1 singleplayer map and scripting contributions.
 
 ### Askisi Gamma
 
+<img src="4ltsp01_1.jpg" />
+
+<img src="4ltsp01_2.jpg" />
+
 <https://www.slipseer.com/index.php?resources/askisi-gamma.94/>
 
 ### Mod Jam 2022 Contribution: Leading Shot Turrets
+
+<img src="mj2022_1.png" />
+
+<img src="mj2022_2.png" />
 
 <https://www.slipseer.com/index.php?resources/modding-jam-2022.186/>
 
 ### Quake 25th Anniversary Contribution: Grotto Gristle
 
+<img src="q25.jpg" />
+
 <https://www.quaddicted.com/reviews/q25_limits_v1.2.html>
-
-### Prototype Jam 3 Contribution: Photon Phil's Phabuous Phacility
-
-<https://www.slipseer.com/index.php?resources/sm220-prototype-jam-3-copper-edition.115/>
 
 ## ShaderToy Shaders
 
