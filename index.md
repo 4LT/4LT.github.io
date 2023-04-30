@@ -3,6 +3,7 @@
 Seth Rader
 
 GitHub: https://github.com/4LT
+
 Linked In: https://www.linkedin.com/in/seth-rader-50b81996
 
 ## Software Ray Tracer
