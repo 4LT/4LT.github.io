@@ -71,8 +71,8 @@ Quake 1 singleplayer map and scripting contributions.
 
 <https://www.shadertoy.com/user/4LT>
 
-Experiments with visual feedback effects, ray tracing, and SDFs, animation,
-and audio visualization.
+Experiments with visual feedback effects, ray tracing, SDFs, image-based
+lighting, animation, and audio visualization.
 
 ## Pipe Cleaner (WIP)
 
