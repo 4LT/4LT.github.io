@@ -67,6 +67,8 @@ Quake 1 singleplayer map and scripting contributions.
 
 ## ShaderToy Shaders
 
+<img src="shadertoy.jpg" />
+
 <https://www.shadertoy.com/user/4LT>
 
 Experiments with visual feedback effects, ray tracing, and SDFs, animation,
