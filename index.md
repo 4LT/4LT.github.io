@@ -31,6 +31,8 @@ median of the triangle centroids in that dimension.
 
 ## gif2spr
 
+<img src="gif2spr.png" />
+
 <https://github.com/4LT/gif2spr>
 
 CLI and GUI application for converting animated .gif (GIF89) images to Quake and
