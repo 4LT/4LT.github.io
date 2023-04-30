@@ -74,6 +74,8 @@ and audio visualization.
 
 ## Pipe Cleaner (WIP)
 
+<img src="pipe-cleaner.png" />
+
 <https://github.com/4LT/pipe-cleaner>
 
 Wireframe shoot-em-up wherein ships are flown on the inside surface of a
