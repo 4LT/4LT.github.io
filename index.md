@@ -31,11 +31,22 @@ median of the triangle centroids in that dimension.
 
 ## gif2spr
 
+<img src="gif2spr.png" />
+
 <https://github.com/4LT/gif2spr>
 
 CLI and GUI application for converting animated .gif (GIF89) images to Quake and
 Half-Life sprites.  GUI is an easy-to-use front-end over the CLI built with
 Tcl/Tk.
+
+## ShaderToy Shaders
+
+<img src="shadertoy.jpg" />
+
+<https://www.shadertoy.com/user/4LT>
+
+Experiments with visual feedback effects, ray tracing, SDFs, image-based
+lighting, animation, and audio visualization.
 
 ## Quake Maps/Modding
 
@@ -43,28 +54,29 @@ Quake 1 singleplayer map and scripting contributions.
 
 ### Askisi Gamma
 
+<img src="4ltsp01_1.jpg" />
+
+<img src="4ltsp01_2.jpg" />
+
 <https://www.slipseer.com/index.php?resources/askisi-gamma.94/>
 
 ### Mod Jam 2022 Contribution: Leading Shot Turrets
+
+<img src="mj2022_1.png" />
+
+<img src="mj2022_2.png" />
 
 <https://www.slipseer.com/index.php?resources/modding-jam-2022.186/>
 
 ### Quake 25th Anniversary Contribution: Grotto Gristle
 
+<img src="q25.jpg" />
+
 <https://www.quaddicted.com/reviews/q25_limits_v1.2.html>
 
-### Prototype Jam 3 Contribution: Photon Phil's Phabuous Phacility
-
-<https://www.slipseer.com/index.php?resources/sm220-prototype-jam-3-copper-edition.115/>
-
-## ShaderToy Shaders
-
-<https://www.shadertoy.com/user/4LT>
-
-Experiments with visual feedback effects, ray tracing, and SDFs, animation,
-and audio visualization.
-
 ## Pipe Cleaner (WIP)
+
+<img src="pipe-cleaner.png" />
 
 <https://github.com/4LT/pipe-cleaner>
 
