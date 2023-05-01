@@ -68,8 +68,8 @@ Quake 1 singleplayer map and scripting contributions.
 
 <https://www.slipseer.com/index.php?resources/modding-jam-2022.186/>
 
-Quake mod that implement turrets which fire ahead of their targets by a distance
-determined by projectile and target velocity.
+Quake mod that implements turrets which fire ahead of their targets by a
+distance determined by projectile and target velocity.
 
 ### Quake 25th Anniversary Contribution: Grotto Gristle
 
