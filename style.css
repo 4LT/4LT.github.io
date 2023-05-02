@@ -3,3 +3,11 @@ html, body {
     color: #c8c8c8;
 }
 
+a {
+    color: #8080ff;
+}
+
+a:active {
+    color: #ffffff;
+}
+
