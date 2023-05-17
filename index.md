@@ -91,8 +91,11 @@ map's traps to make them more lethal.
 
 <https://github.com/4LT/pipe-cleaner>
 
-Wireframe shoot-em-up wherein ships are flown on the inside surface of a
-cylinder.  So far only a renderer is implemented with minimal input support.
-Renderer serves as an abstraction over the Rust
-[wgpu](https://crates.io/crates/wgpu) library, and leverages instanced rendering
-to reduce draw calls.
+Wireframe shoot-em-up in which the player flies their ship on the inside surface
+of a cylinder.  So far only a renderer is implemented with minimal input
+support.  Different types of objects can be added to the renderer by registering
+*classes,* each of which are associated with a model (vertex and index buffers).
+Instances under each class can then be added to or removed from the
+scene at run time.  Instances implement the Attributes trait to describe how
+their color and how they are transformed.  Written in Rust with the
+[wgpu](https://crates.io/crates/wgpu) library.
