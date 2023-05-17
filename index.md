@@ -60,6 +60,10 @@ Quake 1 singleplayer map and scripting contributions.
 
 <https://www.slipseer.com/index.php?resources/askisi-gamma.94/>
 
+Medium-sized tiered structure with a mixture of custom-made and stock Quake
+textures.  Leverages Copper mod to create more engaging encounters and simplify
+scripted events.  Built with TrenchBroom.
+
 ### Mod Jam 2022 Contribution: Leading Shot Turrets
 
 <img src="mj2022_1.png" />
@@ -77,6 +81,9 @@ and UV mapped in Blender.
 <img src="q25.jpg" />
 
 <https://www.quaddicted.com/reviews/q25_limits_v1.2.html>
+
+Homage to Quake's e1m4, "The Grisly Grotto".  Features riffs on the original
+map's traps to make them more lethal.
 
 ## Pipe Cleaner (WIP)
 
